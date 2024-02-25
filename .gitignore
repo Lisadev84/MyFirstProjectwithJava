@@ -1,0 +1,40 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Java/*
+!/My First Project with Java/task/
+/My First Project with Java/task/*
+!/My First Project with Java/task/src
+
+# Project exclude paths
+/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/
+/Topics/Arithmetic operations/Calculating square, cube and fourth power of a number/out/production/classes/
+/Topics/Coding style conventions/Determining the sign of an integer/out/
+/Topics/Coding style conventions/Determining the sign of an integer/out/production/classes/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/
+/Topics/Formatted output/Creating a personalized greeting based on name and height/out/production/classes/
+/Topics/Formatted output/Job simulation/out/
+/Topics/Formatted output/Job simulation/out/production/classes/
+/Topics/Formatted output/The battle for Mathematics/out/
+/Topics/Formatted output/The battle for Mathematics/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Arithmetic expression/out/
+/Topics/Integer types and operations/Arithmetic expression/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/Reversing input numbers/out/
+/Topics/Integer types and operations/Reversing input numbers/out/production/classes/
+/Topics/String/Check burgs/out/
+/Topics/String/Check burgs/out/production/classes/
