@@ -5,14 +5,14 @@ public class Main {
 
        Scanner scanner = new Scanner(System.in);
 
-//        System.out.println("Prices: ");
-//        System.out.println("Bubblegum: $2 ");
-//        System.out.println("Toffee: $0.2");
-//        System.out.println("Ice cream: $5");
-//        System.out.println("Milk chocolate: $4");
-//        System.out.println("Doughnut: $2.5");
-//        System.out.println("Pancake: $3.2");
-//
+       System.out.println("Prices: ");
+
+      System.out.println("Toffee: $0.2");
+      System.out.println("Ice cream: $5");
+       System.out.println("Milk chocolate: $4");
+        System.out.println("Doughnut: $2.5");
+        System.out.println("Pancake: $3.2");
+
         System.out.println("Earned amount: ");
         System.out.println("Bubblegum: $202 ");
         System.out.println("Toffee: $118");
